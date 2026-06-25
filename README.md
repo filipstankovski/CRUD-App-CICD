@@ -4,6 +4,14 @@ A full-stack Employee Management application built with **React**, **Spring Boot
 
 ---
 
+# 👨‍💻 Author
+
+**Filip Stankovski 233111**
+
+Faculty of Computer Science and Engineering (FINKI)
+
+DevOps / CI-CD Project
+
 # 📌 Features
 
 - Employee CRUD operations
@@ -243,12 +251,4 @@ Add screenshots here:
 - Kubernetes Ingress
 - Employee Management application running
 
----
 
-# 👨‍💻 Author
-
-**Filip Stankovski**
-
-Faculty of Computer Science and Engineering (FINKI)
-
-DevOps / CI-CD Project
