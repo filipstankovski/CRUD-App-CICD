@@ -12,6 +12,8 @@ Faculty of Computer Science and Engineering (FINKI)
 
 DevOps / CI-CD Project
 
+---
+
 # 📌 Features
 
 - Employee CRUD operations
