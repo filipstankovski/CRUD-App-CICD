@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: ConfigMap
+
+metadata:
+  name: app-config
+  namespace: employee-app
+
+data:
+  MYSQL_DATABASE: employee_management_system
+
+  SPRING_DATASOURCE_URL: jdbc:mysql://mysql-service:3306/employee_management_system?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC

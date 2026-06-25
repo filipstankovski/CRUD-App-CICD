@@ -1,5 +1,5 @@
-# ---------- Build Stage ----------
-FROM node:18
+
+FROM node:18 AS build
 
 ENV NODE_OPTIONS=--openssl-legacy-provider
 
@@ -13,11 +13,13 @@ COPY . .
 
 RUN npm run build
 
-# ---------- Runtime Stage ----------
+
 FROM nginx:alpine
 
-COPY --from=0 /app/build /usr/share/nginx/html
+COPY nginx.conf /etc/nginx/conf.d/default.conf
+
+COPY --from=build /app/build /usr/share/nginx/html
 
 EXPOSE 80
 
-CMD ["nginx", "-g", "daemon off;"]
+CMD ["nginx","-g","daemon off;"]
