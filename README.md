@@ -1,10 +1,10 @@
-# 🚀 Employee Management System - DevOps CI/CD
+# Employee Management System - DevOps CI/CD
 
 A full-stack Employee Management application built with **React**, **Spring Boot**, and **MySQL**, containerized with **Docker**, automated with **GitHub Actions**, published to **Docker Hub**, and deployed on **Kubernetes (Kind)** using **NGINX Ingress**.
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 **Filip Stankovski 233111**
 
@@ -14,7 +14,7 @@ DevOps / CI-CD Project
 
 ---
 
-# 📌 Features
+# Features
 
 - Employee CRUD operations
 - React frontend
@@ -30,7 +30,7 @@ DevOps / CI-CD Project
 
 ---
 
-# 🏗️ Architecture
+# Architecture
 
 ```
                     Browser
@@ -56,7 +56,7 @@ DevOps / CI-CD Project
 
 ---
 
-# 🛠️ Technologies Used
+# Technologies Used
 
 | Technology | Purpose |
 |------------|---------|
@@ -72,7 +72,7 @@ DevOps / CI-CD Project
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```
 CRUD-App-CICD/
@@ -109,7 +109,7 @@ CRUD-App-CICD/
 
 ---
 
-# 🐳 Running with Docker Compose
+# Running with Docker Compose
 
 ## Clone repository
 
@@ -133,7 +133,7 @@ Services:
 
 ---
 
-# ☸️ Running on Kubernetes
+# Running on Kubernetes
 
 ## Create Kind cluster
 
@@ -191,7 +191,7 @@ http://employee.local
 
 ---
 
-# ⚙️ CI/CD Pipeline
+# CI/CD Pipeline
 
 The project includes a GitHub Actions workflow that automatically:
 
@@ -225,7 +225,7 @@ Kubernetes pulls latest images
 
 ---
 
-# 🐋 Docker Hub Images
+# Docker Hub Images
 
 Backend
 
@@ -241,7 +241,7 @@ filipstankovskii/employee-frontend:latest
 
 ---
 
-# 📸 Screenshots
+# Screenshots
 
 Add screenshots here:
 
