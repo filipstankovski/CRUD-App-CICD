@@ -246,11 +246,26 @@ filipstankovskii/employee-frontend:latest
 Add screenshots here:
 
 - GitHub Actions successful workflow
+  <img width="1885" height="955" alt="3 GITHUB_Actions" src="https://github.com/user-attachments/assets/28fee96d-9dc9-424d-8a6c-c5dfbb392892" />
+
 - Docker Hub repositories
+  <img width="1920" height="378" alt="4 DockerHub" src="https://github.com/user-attachments/assets/ea01175b-7ef0-4b2b-9a45-0da14c5b16f7" />
+
 - Docker Compose running
+  <img width="1919" height="510" alt="2 docker_images" src="https://github.com/user-attachments/assets/b9b42645-1063-45de-a012-138a6037d085" />
+  <img width="1624" height="331" alt="1 docker compose up" src="https://github.com/user-attachments/assets/e7c72091-f17a-4d32-86c6-cac8b804b914" />
+
 - Kubernetes Pods
+  <img width="1427" height="137" alt="5 Kubec Pods" src="https://github.com/user-attachments/assets/ec7d3f35-64c1-4dc0-a775-5e0604621c34" />
+
 - Kubernetes Services
+  <img width="1262" height="143" alt="6 Kubernetes Services" src="https://github.com/user-attachments/assets/d528e27a-9590-42a1-8e04-2b781280558d" />
+
 - Kubernetes Ingress
+  <img width="1236" height="93" alt="7 Kubernetes Ingress" src="https://github.com/user-attachments/assets/7b0a4fa7-bde9-406a-8b9e-11eacd228662" />
+
 - Employee Management application running
+  <img width="1601" height="935" alt="Screenshot_1" src="https://github.com/user-attachments/assets/91f8cb2f-c277-4b8c-8c7b-ce6ed9be75fb" />
+
 
 
