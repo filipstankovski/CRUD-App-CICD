@@ -266,6 +266,8 @@ Add screenshots here:
 
 - Employee Management application running
   <img width="1601" height="935" alt="Screenshot_1" src="https://github.com/user-attachments/assets/91f8cb2f-c277-4b8c-8c7b-ce6ed9be75fb" />
-
+  
+- Argo CD Dashboard (GitOps Continuous Deployment)
+  <img width="1920" height="1028" alt="image" src="https://github.com/user-attachments/assets/b8b175b8-0d1a-4154-941b-d168d908a7e7" />
 
 
